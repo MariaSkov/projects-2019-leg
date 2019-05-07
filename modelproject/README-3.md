@@ -4,6 +4,7 @@ TEAM NAME: LEG
 TEAM MEMBERS: Chen Luo, Eugene Koh, Georgina Fornés Albors
 
 !!Note: Paste pip install git+https://github.com/elben10/pydst in the Terminal before you run the code, in order to have pydst Package.
+!!Note: Sometimes you might see the error message " the slider is not defined." in some graphs. If this happens, please patiently run the library kernal again and wait for several seconds, and then get back to the graph kernel. Usually this solves the problem. :)
 
 Our project tries to study a theory about demographic economics that explains how income of a household and children mortality affect the decision of having children. In the model we maximize a utility function related to a budget constraint. 
 
